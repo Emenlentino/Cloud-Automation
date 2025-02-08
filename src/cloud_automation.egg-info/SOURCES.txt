@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/cloud_automation.egg-info/PKG-INFO
+src/cloud_automation.egg-info/SOURCES.txt
+src/cloud_automation.egg-info/dependency_links.txt
+src/cloud_automation.egg-info/top_level.txt
+src/utils/__init__.py
+src/utils/aws.py
+src/utils/background.py
+src/utils/logging.py
